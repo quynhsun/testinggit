@@ -4,9 +4,6 @@ title: Home
 
 # Welcome to the Dries Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
 We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By generating experimental data and applying computational and statistical methods we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](https://emmakelley.github.io/testsite/research/)). We are particularly interested in improving diagnosis and treatment options for breast cancer and work together with our clinical collaborators at [Boston Medical Center](https://www.bmc.org/) to eliminate racial disparities in cancer care and research.
 
 {:.center}
