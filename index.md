@@ -31,6 +31,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 {%
   include feature.html
   image="images/CDK7_fig.png"
+  width=150%
   link="research"
   title="Our Research"
   text=text
@@ -84,4 +85,6 @@ We are grateful for funding from the Hematology and Medical Oncology section at 
 {%
   include figure.html
   image="images/BUMC_logo"
+  caption=""
+  link="https://www.bmc.org/"
 %}
