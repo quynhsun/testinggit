@@ -10,7 +10,7 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/boston_skyline.jpg" %}
 
 {% include section.html %}
 
@@ -30,7 +30,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/CDK7_fig.png"
   link="research"
   title="Our Research"
   text=text
