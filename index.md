@@ -2,27 +2,13 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Welcome to the Dries Lab
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
+We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By generating experimental data and applying computational and statistical methods we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](https://emmakelley.github.io/testsite/research/)). We are particularly interested in improving diagnosis and treatment options for breast cancer and work together with our clinical collaborators at [Boston Medical Center](https://www.bmc.org/) to eliminate racial disparities in cancer care and research.
+
 {:.center}
 
 {% include section.html full=true %}
@@ -31,11 +17,9 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental questions such as: How can we improve the quality of patients’ lives. What drives and controls cellular plasticity in development and tumor resistance? How do cells transcriptionally respond to targeted therapies and how can we steer it in the right direction? What is the role of signaling and cell communcation within the (tumor) microenvironment? And how can we ultimately leverage our knowledge to identify better biomarkers or novel therapy strategies?
 
 {%
   include link.html
@@ -56,8 +40,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab has developed Giotto,a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data.
 
 {%
   include link.html
@@ -79,7 +62,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Do you have a passion for science and discovery? We are always on the lookout for researchers to join the team!
 
 {%
   include link.html
@@ -99,5 +82,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
+
+{%
+  include figure.html
+  image="images/BUMC_logo"
+%}
