@@ -1,10 +1,10 @@
 - id: doi:10.1186/s13059-021-02286-2
   image: "images/giotto_example.PNG"
-  date: 2021-8-3
+  date: 2021-3-8
   tags:
     - spatial transcriptomics
 
-- id: doi:10.1371/journal.pcbi.1007128
+- id: 10.1038/s41467-022-28616-x
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   repo: greenelab/meta-review
   extra-links:
