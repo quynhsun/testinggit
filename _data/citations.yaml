@@ -1,20 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1186/s13059-021-02286-2
+  title: 'Giotto: a toolbox for integrative analysis and visualization of spatial
+    expression data'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
+  - Ruben Dries
+  - Qian Zhu
+  - Rui Dong
+  - Chee-Huat Linus Eng
+  - Huipeng Li
+  - Kan Liu
+  - Yuntian Fu
+  - Tianxiao Zhao
+  - Arpan Sarkar
+  - Feng Bao
+  - Rani E. George
+  - Nico Pierson
+  - Long Cai
+  - Guo-Cheng Yuan
+  publisher: Genome Biology
+  date: '2021-08-03'
+  link: https://doi.org/gj8zjn
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - knowledge graphs
+  - spatial transcriptomics
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
