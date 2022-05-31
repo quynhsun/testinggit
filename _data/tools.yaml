@@ -1,7 +1,7 @@
 - title: Giotto
   subtitle: The original
   group: featured
-  image: images/photo.jpg
+  image: images/Giotto_logo2.png
   link: https://rubd.github.io/Giotto/
   description: The Giotto package consists of two modules, Giotto Analyzer and Viewer (see www.spatialgiotto.com), which provide tools to process, analyze and visualize single-cell spatial expression data. 
   repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Giotto Suite
   subtitle: Updated version in development
   group: featured
-  image: images/photo.jpg
+  image: images/input_Compatability.png
   link: https://giottosuite.com/
   description: Giotto Suite is a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data. It was developed to extend and improve our previous R package Giotto.
   repo: greenelab/lab-website-template
@@ -20,7 +20,7 @@
 
 - title: Source Code
   group: more
-  image: images/photo.jpg
+  image: images/unnamed.png
   link: https://github.com/RubD/Giotto
   description: Open source code for Giotto and Giotto Suite
   repo: greenelab/lab-website-template
