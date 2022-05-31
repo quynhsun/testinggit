@@ -20,24 +20,38 @@
   - Long Cai
   - Guo-Cheng Yuan
   publisher: Genome Biology
-  date: '2021-08-03'
+  date: '2021-03-08'
   link: https://doi.org/gj8zjn
   image: images/giotto_example.PNG
   tags:
   - spatial transcriptomics
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: 10.1038/s41467-022-28616-x
+  title: Multi-modal profiling of human fetal liver hematopoietic stem cells reveals
+    the molecular signature of engraftment
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
+  - Kim Vanuytsel
+  - Carlos Villacorta-Martin
+  - Jonathan Lindstrom-Vautrin
+  - Zhe Wang
+  - Wilfredo F. Garcia-Beltran
+  - Vladimir Vrbanac
+  - Dylan Parsons
+  - Evan C. Lam
+  - Taylor M. Matte
+  - Todd W. Dowrey
+  - Sara S. Kumar
+  - Mengze Li
+  - Feiya Wang
+  - Anthony K. Yeung
+  - Gustavo Mostoslavsky
+  - Ruben Dries
+  - Joshua D. Campbell
+  - Anna C. Belkina
+  - Alejandro B. Balazs
+  - George J. Murphy
+  publisher: Nature Communications
+  date: '2022-03-01'
+  link: https://doi.org/gp8jqw
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   repo: greenelab/meta-review
   extra-links:
