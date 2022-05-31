@@ -38,3 +38,9 @@ link="https://www.google.com/maps/place/650+Albany+St,+Boston,+MA+02118/@42.3360
 %}
 {:.center}
 
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Boston Medical Center"
+%}
+
