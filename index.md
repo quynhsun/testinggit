@@ -77,6 +77,9 @@ Do you have a passion for science and discovery? We are always on the lookout fo
   text=text
 %}
 
+We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
+
+{:.center}
 
 
 {%
@@ -84,8 +87,7 @@ Do you have a passion for science and discovery? We are always on the lookout fo
   image="images/BUMC_logo.png"
   caption=""
   link="https://www.bmc.org/"
+  width=50%
 %}
 
-We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
 
-{:.center}
