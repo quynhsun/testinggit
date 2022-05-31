@@ -87,7 +87,7 @@ We are grateful for funding from the Hematology and Medical Oncology section at 
   image="images/BUMC_logo.png"
   caption=""
   link="https://www.bmc.org/"
-  width=50%
+  width="50%"
 %}
 
 
