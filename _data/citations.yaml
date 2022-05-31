@@ -22,7 +22,7 @@
   publisher: Genome Biology
   date: '2021-08-03'
   link: https://doi.org/gj8zjn
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/giotto_example.PNG
   tags:
   - spatial transcriptomics
 - id: doi:10.1371/journal.pcbi.1007128
