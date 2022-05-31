@@ -11,7 +11,7 @@
 - title: Giotto Suite
   subtitle: Updated version in development
   group: featured
-  image: images/input_Compatability.png
+  image: images/input_Compatibility.png
   link: https://giottosuite.com/
   description: Giotto Suite is a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data. It was developed to extend and improve our previous R package Giotto.
   repo: greenelab/lab-website-template
