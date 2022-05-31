@@ -10,8 +10,6 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/boston_skyline.jpg" %}
-
 {% include section.html %}
 
 
@@ -37,7 +35,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 %}
 
 {% capture text %}
-Our lab has developed Giotto,a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data.
+Our lab has developed Giotto, a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data.
 
 {%
   include link.html
@@ -73,13 +71,13 @@ Do you have a passion for science and discovery? We are always on the lookout fo
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/boston_skyline.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
 
-We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
+
 
 {%
   include figure.html
@@ -87,3 +85,7 @@ We are grateful for funding from the Hematology and Medical Oncology section at 
   caption=""
   link="https://www.bmc.org/"
 %}
+
+We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
+
+{:.center}
