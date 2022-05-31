@@ -7,16 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and the [Department of Computational Biology](https://www.bumc.bu.edu/compbiomed/) at [Boston University School of Medicine](https://www.bumc.bu.edu/). We are located on the 4th floor of the Evans Biomedical Research Center
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="rdries@bu.edu
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="rdries@bu.edu
   style="button"
 %}
 {%
@@ -34,32 +33,8 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+link="https://www.google.com/maps/place/650+Albany+St,+Boston,+MA+02118/@42.3360211,-71.0717127,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a6a6e88d1a7:0xab45f229595a8420!8m2!3d42.3360172!4d-71.0695187"
   style="button"
 %}
 {:.center}
 
-{% include section.html %}
-
-### <i class="fas fa-mail-bulk"></i>Mailing Address
-
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
-{:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
