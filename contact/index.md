@@ -13,9 +13,9 @@ Our lab is part of the [Department of Hematology and Medical Oncology](https://w
   include link.html
   type="email"
   icon=""
-  text="rdries@bu.edu
+  text="rdries@bu.edu"
   tooltip=""
-  link="rdries@bu.edu
+  link="rdries@bu.edu"
   style="button"
 %}
 {%
