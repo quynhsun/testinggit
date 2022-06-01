@@ -14,7 +14,7 @@ We are a young and dynamic research group at BUMC in the department of [Hematolo
 
 
 {% capture text %}
-Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental questions such as: How can we improve the quality of patients’ lives. What drives and controls cellular plasticity in development and tumor resistance? How do cells transcriptionally respond to targeted therapies and how can we steer it in the right direction? What is the role of signaling and cell communcation within the (tumor) microenvironment? And how can we ultimately leverage our knowledge to identify better biomarkers or novel therapy strategies?
+Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental questions such as: How can we improve the quality of patients’ lives? What drives and controls cellular plasticity in development and tumor resistance? How do cells transcriptionally respond to targeted therapies and how can we steer it in the right direction? What is the role of signaling and cell communcation within the (tumor) microenvironment? And how can we ultimately leverage our knowledge to identify better biomarkers or novel therapy strategies?
 
 {%
   include link.html
