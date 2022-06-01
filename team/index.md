@@ -35,7 +35,7 @@ nav:
 
 ## Lab Alumni
 
-##### Kylor Lachut (Undergrad, 2022)
+### Kylor Lachut (Undergrad, 2022)
 
 {% include section.html %}
 
