@@ -26,7 +26,7 @@
   tags:
   - spatial transcriptomics
   - Giotto
-- id: 10.1038/s41467-022-28616-x
+- id: doi:10.1038/s41467-022-28616-x
   title: Multi-modal profiling of human fetal liver hematopoietic stem cells reveals
     the molecular signature of engraftment
   authors:
@@ -54,18 +54,10 @@
   date: '2022-03-01'
   link: https://doi.org/gp8jqw
   image: images/fetal_liver.PNG
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
   tags:
   - single cell
   - stem cell biology
-- id: 10.1002/cpz1.405
+- id: doi:10.1002/cpz1.405
   title: Analyzing Spatial Transcriptomics Data Using Giotto
   authors:
   - Natalie Del Rossi
