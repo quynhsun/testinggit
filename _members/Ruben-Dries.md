@@ -9,7 +9,7 @@ links:
   twitter: RnDries
 ---
 
-Result of a moonshot project where a stem cell researcher was fused with a computational biology & cancer expert.
+*Result of a moonshot project where a stem cell researcher was fused with a computational biology & cancer expert.*
 
 - Master in Biomedical Sciences at K.U.Leuven and Tsinghua University.
 - PhD in Stem Cell biology at K.U.Leuven with D. Huylebroeck
