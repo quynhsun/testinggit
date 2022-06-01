@@ -20,15 +20,6 @@ Our lab is part of the [Department of Hematology and Medical Oncology](https://w
 %}
 {%
   include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
-  style="button"
-%}
-{%
-  include link.html
   type="address"
   icon=""
   text="Google Maps"
