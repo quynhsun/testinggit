@@ -1,9 +1,7 @@
 ---
 name: Ruben Dries
 image: images/member.jpg
-description: Assistant professor of Medicine
-Divisions of Hematology and Oncology and Computational Biomedicine
-Associate Member Center for Regenerative Medicine (CReM)
+description: Assistant Professor of Medicine, Divisions of Hematology and Oncology and Computational Biomedicine, Associate Member Center for Regenerative Medicine (CReM)
 role: pi
 links:
   orcid: 0000-0001-7650-7754
