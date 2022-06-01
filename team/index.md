@@ -36,6 +36,8 @@ nav:
 ## Lab Alumni
 
 ### Kylor Lachut (Undergrad, 2022)
+### Clare Melley (Summer Undergrad 2021)
+### Pareesha Haresh (Summer Undergrad 2021)
 
 {% include section.html %}
 
