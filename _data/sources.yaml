@@ -1,6 +1,5 @@
 - id: doi:10.1186/s13059-021-02286-2
   image: "images/giotto_example.PNG"
-  date: 2021-3-8
   tags:
     - spatial transcriptomics
     - Giotto
@@ -10,6 +9,7 @@
   tags:
     - single cell
     - stem cell biology
+    -
 
 - id: 10.1002/cpz1.405
   image: "images/Giotto_logo2.png"
