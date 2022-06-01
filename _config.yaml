@@ -12,7 +12,7 @@ baseurl: /testsite
 # site social media and other links
 links:
   email: rdries@bu.edu
-  google-scholar: Ruben Dries
+  google-scholar: https://scholar.google.com/citations?user=7msXSDQAAAAJ&hl=en
   github: your-lab
   twitter: your-lab
   instagram: YourLabHandle
