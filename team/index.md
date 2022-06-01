@@ -35,7 +35,7 @@ nav:
 
 ## Lab Alumni
 
-###### Kylor Lachut (Undergrad, 2022)
+##### Kylor Lachut (Undergrad, 2022)
 
 {% include section.html %}
 
@@ -46,7 +46,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/images.jpg"
   link1="https://www.bmc.org/"
