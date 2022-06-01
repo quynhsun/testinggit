@@ -4,13 +4,13 @@
     - spatial transcriptomics
     - Giotto
 
-- id: 10.1038/s41467-022-28616-x
+- id: doi:10.1038/s41467-022-28616-x
   image: "images/fetal_liver.PNG"
   tags:
     - single cell
     - stem cell biology
 
-- id: 10.1002/cpz1.405
+- id: doi:10.1002/cpz1.405
   image: "images/Giotto_logo2.png"
   tags:
     - spatial transcriptomics
