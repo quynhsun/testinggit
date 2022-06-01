@@ -33,6 +33,12 @@ nav:
 
 {% include section.html %}
 
+## Lab Alumni
+
+###### Kylor Lachut (Undergrad, 2022)
+
+{% include section.html %}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
@@ -42,11 +48,11 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
+  image1="images/images.jpg"
   link1="https://www.bmc.org/"
   tooltip1="Boston Medical Center"
 
-  image2="images/photo.jpg"
+  image2="images/download.png"
   link2="https://www.nih.gov/"
   tooltip2="NIH"
 
