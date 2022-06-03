@@ -7,7 +7,7 @@ description: Welcome to the Dries Lab
 logo: images/ruben_logo_final_transparent_blackwhite.png
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /drieslab2
+baseurl: /
 
 # site social media and other links
 links:
