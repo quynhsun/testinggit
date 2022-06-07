@@ -34,8 +34,6 @@ If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu
 
 The lab manager will provide research and operational support for both the experimental and computational components of the lab. This role is approximately 60% bench research, 15% data analysis and writing, and 25% logistical and administrative support, but is flexible depending on the applicant’s interest. Research focus will be on understanding how the cellular microenvironment contributes to breast cancer development and resistance to therapy. The lab manager will work closely with clinical and scientific collaborators and members in the lab.
  
-Responsibilities will span the research process and include experimental work, data analysis and interpretation, and logistical support of a mid-sized academic research lab. The lab manager will be responsible for processing and collecting patient samples to ensure successful storage and access of the generated datasets. The lab manager will also help to develop 3D breast cancer models, including maintaining cell lines, running quantitative and qualitative analyses of the project, and helping with the experimental design. There will also be opportunities to contribute to manuscript preparation, grant writing, and literature review. As lab manager, this position will include some logistical responsibilities, including ordering, lab safety, assisting in the recruitment and training of undergraduates, and other issues as they arise.
-
 {%
   include link.html
   type="docs"
