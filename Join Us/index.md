@@ -19,6 +19,15 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 The fellow would primarily be working on a project investigating the spatial drivers of the lung (pre-)metastatic niche in osteosarcoma. Osteosarcoma is the most common childhood bone tumor, and despite recent advances, is associated with a poor prognosis. Understanding the metastatic process from the primary bone location to the lungs will be essential to identify and target novel vulnerabilities. Using the resources of the newly established Spatial Imaging Core, including an in situ spatial omics platform, the fellow will study the microenvironmental influences of lung metastasis. This exciting project would involve working with renowned collaborators across multiple institutions including bioinformaticians, wet-lab scientists, and clinicians.
 
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
+{%
+  include link.html
+  type="twitter"
+  link="some_twitter_handle"
+  icon="fab fa-twitter-square"
+  text="Follow us on Twitter"
+  tooltip="Follow us on Twitter for cool tweets about nothing"
+  style="button"
+%}
 
 {% include section.html %}
 
