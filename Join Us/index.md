@@ -21,11 +21,10 @@ The fellow would primarily be working on a project investigating the spatial dri
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 {%
   include link.html
-  type="twitter"
-  link="some_twitter_handle"
-  icon="fab fa-twitter-square"
-  text="Follow us on Twitter"
-  tooltip="Follow us on Twitter for cool tweets about nothing"
+  type="docs"
+  link="/images/"
+  icon="fas fa-book"
+  text="Complete Job Description
   style="button"
 %}
 
