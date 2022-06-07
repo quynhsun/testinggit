@@ -18,7 +18,6 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 The fellow would primarily be working on a project investigating the spatial drivers of the lung (pre-)metastatic niche in osteosarcoma. Osteosarcoma is the most common childhood bone tumor, and despite recent advances, is associated with a poor prognosis. Understanding the metastatic process from the primary bone location to the lungs will be essential to identify and target novel vulnerabilities. Using the resources of the newly established Spatial Imaging Core, including an in situ spatial omics platform, the fellow will study the microenvironmental influences of lung metastasis. This exciting project would involve working with renowned collaborators across multiple institutions including bioinformaticians, wet-lab scientists, and clinicians.
 
-If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 {%
   include link.html
   type="docs"
@@ -27,6 +26,7 @@ If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu
   text="Complete Job Description"
   style="button"
 %}
+If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
 {% include section.html %}
 
@@ -36,6 +36,14 @@ The lab manager will provide research and operational support for both the exper
  
 Responsibilities will span the research process and include experimental work, data analysis and interpretation, and logistical support of a mid-sized academic research lab. The lab manager will be responsible for processing and collecting patient samples to ensure successful storage and access of the generated datasets. The lab manager will also help to develop 3D breast cancer models, including maintaining cell lines, running quantitative and qualitative analyses of the project, and helping with the experimental design. There will also be opportunities to contribute to manuscript preparation, grant writing, and literature review. As lab manager, this position will include some logistical responsibilities, including ordering, lab safety, assisting in the recruitment and training of undergraduates, and other issues as they arise.
 
+{%
+  include link.html
+  type="docs"
+  link="images/advertisement/Dries_lab_manager_220523.pdf"
+  icon="fas fa-book"
+  text="Complete Job Description"
+  style="button"
+%}
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
 {% include section.html %}
@@ -44,6 +52,14 @@ If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu
 
 The applicant’s work will include maintaining our in-house developed Giotto platform (giottosuite.com), analysis of single-cell and spatial transcriptomic datasets, and identifying and implementing the best solutions for large data processing, visualization and spatial data analysis algorithms. We offer a unique inclusive environment and the opportunity to explore and work with new cutting edge tools to develop the skills aspiring scientists in software development and bioinformatics will need.
 
+{%
+  include link.html
+  type="docs"
+  link="images/advertisement/Junior Analyst Position (1).pdf"
+  icon="fas fa-book"
+  text="Complete Job Description"
+  style="button"
+%}
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
 
