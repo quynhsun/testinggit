@@ -24,7 +24,7 @@ If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu
   type="docs"
   link="images/advertisement/Post-doctoral Fellow.pdf"
   icon="fas fa-book"
-  text="Complete Job Description
+  text="Complete Job Description"
   style="button"
 %}
 
