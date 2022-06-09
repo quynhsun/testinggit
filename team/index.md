@@ -25,6 +25,12 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: labman"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
 %}
 {:.center}
