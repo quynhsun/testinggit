@@ -13,6 +13,10 @@ phd:
 undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
+  
+ labman:
+  icon: fas fa-flask
+  text: Lab Manager
 
 programmer:
   icon: fas fa-code
