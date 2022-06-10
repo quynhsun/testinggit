@@ -81,7 +81,7 @@ Do you have a passion for science and discovery? We are always on the lookout fo
 {% include section.html %}
 
 
-## Funding
+# Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}

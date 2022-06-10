@@ -59,26 +59,3 @@ nav:
  Liam Murray (Summer Undergrad 2021) <br>
  
 
-{% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-
-  image1="images/images.jpg"
-  link1="https://www.bmc.org/"
-  tooltip1="Boston Medical Center"
-
-  image2="images/download.png"
-  link2="https://www.nih.gov/"
-  tooltip2="NIH"
-  
-  image3="images/ALSF_Ribbon_Tag_RGB.png"
-  link3="https://www.alexslemonade.org/"
-  tooltip3="ALSF"
-
-%}
