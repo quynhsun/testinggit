@@ -2,7 +2,7 @@
 name: Jason Weis
 image: images/member.jpg
 role: phd
-description: Graduate Student
+description: Graduate Student Shared with Mazzilli Lab
 links:
   email: jweis@bu.edu
 ---

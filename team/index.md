@@ -52,9 +52,12 @@ nav:
 
 ## Lab Alumni
 
+ Rafael dos Santos Peixoto (Undergrad thesis student 2021-2022) <br>
  Kylor Lachut (Undergrad, 2022) <br>
  Clare Melley (Summer Undergrad 2021) <br>
  Pareesha Haresh (Summer Undergrad 2021) <br>
+ Liam Murray (Summer Undergrad 2021) <br>
+ 
 
 {% include section.html %}
 
@@ -73,5 +76,9 @@ Our work is made possible by funding from several organizations.
   image2="images/download.png"
   link2="https://www.nih.gov/"
   tooltip2="NIH"
+  
+  image3="images/ALSF_Ribbon_Tag_RGB.png"
+  link3="https://www.alexslemonade.org/"
+  tooltip3="ALSF"
 
 %}
