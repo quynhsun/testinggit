@@ -78,8 +78,11 @@ Do you have a passion for science and discovery? We are always on the lookout fo
 %}
 
 
-{% include section.html %}
 
+
+{% include section.html background="images/banner.jpg" dark=true%}
+
+{% include section.html %}
 
 # Funding
 
