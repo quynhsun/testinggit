@@ -78,6 +78,8 @@ Do you have a passion for science and discovery? We are always on the lookout fo
 %}
 
 
+{% include section.html %}
+
 
 ## Funding
 
@@ -101,17 +103,5 @@ Our work is made possible by funding from several organizations.
 
 %}
 
-We are grateful for funding from the Hematology and Medical Oncology section at BUMC.
-
-{:.center}
-
-
-{%
-  include figure.html
-  image="images/BUMC_logo.png"
-  caption=""
-  link="https://www.bmc.org/"
-  width="50%"
-%}
 
 
