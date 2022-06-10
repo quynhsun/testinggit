@@ -25,9 +25,26 @@ nav:
   include list.html
   data="members"
   component="portrait"
+  filters="role: labman"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: programmer"
 %}
 {:.center}
+
+{% include section.html %}
+## Undergraduate Students
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
