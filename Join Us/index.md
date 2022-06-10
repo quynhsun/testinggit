@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Join Us!
-The projects in our lab are often centered around clinical data or pre-clinical modeling and are highly trans-disciplinary. They are situated at the interface of functional (single-cell) multi-omics, computational biology and (spatial) imaging to better understand the principles that steer changes in complex multicellular tissues. You will be working together with experts in these fields and will have the opportunity to be trained in one or more fields to become a well-rounded researcher. You will be involved in determining the important and interesting questions, creating and improving technological setups, performing experiments, and/or analyzing obtained datasets.
+The projects in our lab are centered around primary patient samples or pre-clinical modeling and are highly trans-disciplinary. They are situated at the interface of functional (single-cell) multi-omics, computational biology and (spatial) imaging to better understand the principles that steer changes in complex multicellular tissues. You will be working together with experts in these fields and will have the opportunity to be trained in one or more fields to become a well-rounded researcher. You will be involved in determining the important and interesting questions, creating and improving technological setups, performing experiments, and/or analyzing obtained datasets.
 
 Since our lab atmosphere is highly collaborative we particularly encourage applications from individuals that have an open mind and work well in a team setting. Each person will have the opportunity to be the chief of their own project(s), but will be asked to give and take advice in a positive and constructive manner. 
 
