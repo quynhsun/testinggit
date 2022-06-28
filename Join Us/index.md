@@ -21,7 +21,7 @@ The fellow would primarily be working on a project investigating the spatial dri
 {%
   include link.html
   type="docs"
-  link="images/advertisement/Post-doctoral Fellow.pdf"
+  link="images/advertisement/Post-doctoral Fellow_spatial_osteosarcoma.pdf"
   icon="fas fa-book"
   text="Complete Job Description"
   style="button"
