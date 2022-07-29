@@ -1,6 +1,6 @@
 ---
 name: Osa Imafidon
-image: images/Emma_Kelley.png
+image: images/member.jpg
 role: labman
 description: Lab Manager
 links:
