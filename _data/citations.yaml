@@ -71,3 +71,40 @@
   tags:
   - spatial transcriptomics
   - Giotto
+- id: doi:10.1038/s41586-019-1049-y
+  title: Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+
+  authors:
+  - Chee-Huat Linus Eng
+  - Michael Lawson
+  - Qian Zhu
+  - Ruben Dries
+  - Noushin Koulena
+  - Yodai Takei
+  - Jina Yun
+  - Christopher Cronin
+  - Christoph Karp
+  - Guo-Cheng Yuan
+  - Long Cai
+  publisher: Nature
+  date: '2019-03-25'
+  link: https://doi.org/gfxgqx
+  image: images/Seqfish_ligand.png
+  tags:
+  - single cell
+  - imaging
+- id: doi:10.1101/gr.275224.121
+  title: Advances in spatial transcriptomic data analysis
+  authors:
+  - Ruben Dries
+  - Jiaji Chen
+  - Natalie del Rossi
+  - Mohammed Muzamil Khan
+  - Adriana Sistig
+  - Guo-Cheng Yuan
+  publisher: Genome Research
+  date: '2021-10-01'
+  link: https://doi.org/gmz4kj
+  image: images/Spatial_advances.png
+  tags:
+  - spatial transcriptomics
+  - review
