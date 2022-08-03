@@ -1,6 +1,6 @@
 ---
 name: Osa Imafidon
-image: images/osa.jpeg
+image: images/Osa.jpeg
 role: labman
 description: Lab Manager
 links:
