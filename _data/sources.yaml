@@ -17,13 +17,13 @@
     - Giotto
     
 - id: doi:10.1038/s41586-019-1049-y
-  image: "images/Seqfish_ligand.png"
+  image: "images/Seqfish_ligand.PNG"
   tags:
     - single cell
     - imaging
     
 - id: doi:10.1101/gr.275224.121
-  image: "images/Spatial_advances.png"
+  image: "images/Spatial_advances.PNG"
   tags:
     - spatial transcriptomics
     - review
