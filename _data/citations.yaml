@@ -88,7 +88,7 @@
   publisher: Nature
   date: '2019-03-25'
   link: https://doi.org/gfxgqx
-  image: images/Seqfish_ligand.png
+  image: images/Seqfish_ligand.PNG
   tags:
   - single cell
   - imaging
@@ -104,7 +104,7 @@
   publisher: Genome Research
   date: '2021-10-01'
   link: https://doi.org/gmz4kj
-  image: images/Spatial_advances.png
+  image: images/Spatial_advances.PNG
   tags:
   - spatial transcriptomics
   - review
