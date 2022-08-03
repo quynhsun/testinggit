@@ -14,8 +14,3 @@ We focus on biological processes that control the decision making of an individu
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
