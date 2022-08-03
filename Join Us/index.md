@@ -30,35 +30,5 @@ If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu
 
 {% include section.html %}
 
-#### Lab Manager
-
-The lab manager will provide research and operational support for both the experimental and computational components of the lab. This role is approximately 60% bench research, 15% data analysis and writing, and 25% logistical and administrative support, but is flexible depending on the applicant’s interest. Research focus will be on understanding how the cellular microenvironment contributes to breast cancer development and resistance to therapy. The lab manager will work closely with clinical and scientific collaborators and members in the lab.
- 
-{%
-  include link.html
-  type="docs"
-  link="images/advertisement/Dries_lab_manager_220523.pdf"
-  icon="fas fa-book"
-  text="Complete Job Description"
-  style="button"
-%}
-If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
-
-{% include section.html %}
-
-#### Junior Bioinformatician
-
-The applicant’s work will include maintaining our in-house developed Giotto platform (giottosuite.com), analysis of single-cell and spatial transcriptomic datasets, and identifying and implementing the best solutions for large data processing, visualization and spatial data analysis algorithms. We offer a unique inclusive environment and the opportunity to explore and work with new cutting edge tools to develop the skills aspiring scientists in software development and bioinformatics will need.
-
-{%
-  include link.html
-  type="docs"
-  link="images/advertisement/Junior Analyst Position (1).pdf"
-  icon="fas fa-book"
-  text="Complete Job Description"
-  style="button"
-%}
-If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
-
 
 
