@@ -19,7 +19,15 @@ We focus on biological processes that control the decision making of an individu
 ## Current Projects
 
 {% capture text %}
-Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a challenging disease to treat, and treatment has not improved in almost four decades. The primary cause of mortality for pediatric osteosarcoma is metastases to the lung. This interdisciplinary project, funded by Alex's Lemonade Stand, seeks to uncover the processes that drive the development of metastatic lesions. Using cutting edge technology including spatial transcriptomics, we hope to identify druggable drivers of metastasis. You can learn more about [Alex's Lemonade Stand](https://www.alexslemonade.org/) and the [Crazy Eight Initiative](https://www.alexslemonade.org/crazy-8-initiative) here.
+Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a challenging disease to treat, and treatment has not improved in almost four decades. The primary cause of mortality for pediatric osteosarcoma is metastases to the lung. This interdisciplinary project, funded by Alex's Lemonade Stand, seeks to uncover the processes that drive the development of metastatic lesions. Using cutting edge technology including spatial transcriptomics, we hope to identify druggable drivers of metastasis. 
+
+{%
+  include link.html
+  link="https://www.alexslemonade.org/crazy-8-initiative"
+  text="Learn more about the Crazy Eight Initiative"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {:.center}
 {% endcapture %}
 
