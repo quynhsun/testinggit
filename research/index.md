@@ -12,9 +12,12 @@ To answer these questions we make use of state-of-the-art facilities and emergin
 
 We focus on biological processes that control the decision making of an individual (cancer) cell. These processes range from extracelluar cues, such as signaling pathways and cell-to-cell interactions, to intracellular mechanisms that control the cell’s fate and its ability to (de-)differentiate, such as chromatin reorganization and transcriptional processing.
 
-{% include section.html %}
+{:.center}
 
 {% include section.html full=true %}
+
+{% include section.html %}
+
 
 ## Current Projects
 
