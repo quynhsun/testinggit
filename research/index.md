@@ -24,7 +24,7 @@ Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a
 
 {%
   include feature.html
-  image="images/CDK7_fig.png"
+  image="images/Georgemicroscope.png"
   title="Pulmonary Metastasis in Osteosarcoma"
   text=text
 %}
