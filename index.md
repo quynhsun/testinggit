@@ -18,7 +18,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
