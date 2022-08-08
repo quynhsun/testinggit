@@ -1,8 +1,9 @@
+---
 title: Goodbye and Goodluck Emma Kelley!
 tags:
-  - Lab Alumni
+  - alumni 
 author: Osa Imafidon
-member: Emma-Kelley
+member: Osa-Imafidon
 ---
 
 On Friday August 5th, the Dries lab said Goodbye to our lab manager Emma Kelley. Emma was a part of the Dries lab for 2 years and made quite an impact. She will be starting a masters
@@ -10,21 +11,21 @@ program in genetic counseling at University of Michigan. We would like to wish E
 
 {%
   include figure.html
-  image="images/Emma'slastday1.jpg"
+  image="images/Emma's last day 1.jpg"
   caption=""
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Emma'slastday2.jpg"
+  image="images/Emma's last day 2.jpg"
   caption=""
   width="400px"
 %}
 
 {%
   include figure.html
-  image="images/Emma'slastday3.jpg"
+  image="images/Emma's last day 3.jpg"
   caption=""
   width="400px"
 %}
