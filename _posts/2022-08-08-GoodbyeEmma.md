@@ -11,14 +11,14 @@ program in genetic counseling at University of Michigan. We would like to wish E
 {%
   include figure.html
   image="images/Emma'slastday1.jpg"
-  caption=
+  caption=""
   width="400px"
 %}
 
 {%
   include figure.html
   image="images/Emma'slastday2.jpg"
-  caption=
+  caption=""
   width="400px"
 %}
 
