@@ -53,7 +53,10 @@ nav:
 ## Lab Alumni
 
  Emma Kelley (Lab Manager and Research Associate 2020-2022) <br>
+ Mohammed Muzami Khan (Phd Student 2020-2022) <br>
  Rafael dos Santos Peixoto (Undergrad thesis student 2021-2022) <br>
+ Cecilia McCormick (BRITE REU Scholar Summer 2022) <br>
+ Laila Norford (BRIE REU Scholar Summer 2022) <br>
  Kylor Lachut (Undergrad, 2022) <br>
  Clare Melley (Summer Undergrad 2021) <br>
  Pareesha Haresh (Summer Undergrad 2021) <br>
