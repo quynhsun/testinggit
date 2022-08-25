@@ -16,8 +16,17 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 #### Postdoctoral Fellow
 
-The fellow would primarily be working on a project investigating the spatial drivers of the lung (pre-)metastatic niche in osteosarcoma. Osteosarcoma is the most common childhood bone tumor, and despite recent advances, is associated with a poor prognosis. Understanding the metastatic process from the primary bone location to the lungs will be essential to identify and target novel vulnerabilities. Using the resources of the newly established Spatial Imaging Core, including an in situ spatial omics platform, the fellow will study the microenvironmental influences of lung metastasis. This exciting project would involve working with renowned collaborators across multiple institutions including bioinformaticians, wet-lab scientists, and clinicians.
+We're looking for postdoctoral fellow(s) with an interest in spatial multi-omics and imaging. Ideally, this person has prior expertise in one or more of the following skills:   
+- data analysis  
+- imaging  
+- genomics  
+- tissue processing  
+- spatial method development  
+- oncology or developmental biology  
 
+Our main focus is on breast cancer and associated cancer disparities, but we also have projects that investigate other cancer types (e.g. osteosarcoma) and the fetal liver niche. We offer a unique and inclusive environment and the opportunity to explore and work with new cutting edge tools, both experimental and computational, to grow as a scientist and develop the skills necessary for interdisciplinary research. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed.
+
+```
 {%
   include link.html
   type="docs"
@@ -26,6 +35,8 @@ The fellow would primarily be working on a project investigating the spatial dri
   text="Complete Job Description"
   style="button"
 %}
+```
+
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
 {% include section.html %}
