@@ -14,7 +14,7 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 # Current Openings
 
-#### Postdoctoral Fellow
+#### Postdoctoral Fellow(s)
 
 We're looking for postdoctoral fellow(s) with an interest in spatial multi-omics and imaging. Ideally, this person has prior expertise in one or more of the following skills:   
 - data analysis  
@@ -25,17 +25,6 @@ We're looking for postdoctoral fellow(s) with an interest in spatial multi-omics
 - oncology or developmental biology  
 
 Our main focus is on breast cancer and associated cancer disparities, but we also have projects that investigate other cancer types (e.g. osteosarcoma) and the fetal liver niche. We offer a unique and inclusive environment and the opportunity to explore and work with new cutting edge tools, both experimental and computational, to grow as a scientist and develop the skills necessary for interdisciplinary research. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed.
-
-```
-{%
-  include link.html
-  type="docs"
-  link="images/advertisement/Post-doctoral Fellow_spatial_osteosarcoma.pdf"
-  icon="fas fa-book"
-  text="Complete Job Description"
-  style="button"
-%}
-```
 
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
