@@ -14,17 +14,18 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 # Current Openings
 
-#### Postdoctoral Fellow(s)
+#### Postdoctoral Fellow(s) in Spatial biology
 
-We're looking for postdoctoral fellow(s) with an interest in spatial multi-omics and imaging. Ideally, this person has prior expertise in one or more of the following skills:   
-- data analysis  
-- imaging  
+We're looking for enthusiastic postdoctoral fellow(s) with an interest in spatial multi-omics. Ideally, this person has prior expertise in one or more of the following skills:   
+- data science / analysis  
+- imaging  or image processing  
 - genomics  
-- tissue processing  
+- tissue and sample processing  
+- in vitro cancer modeling  
 - spatial method development  
 - oncology or developmental biology  
 
-Our main focus is on breast cancer and associated cancer disparities, but we also have projects that investigate other cancer types (e.g. osteosarcoma) and the fetal liver niche. We offer a unique and inclusive environment and the opportunity to explore and work with new cutting edge tools, both experimental and computational, to grow as a scientist and develop the skills necessary for interdisciplinary research. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed.
+Our main focus is on breast cancer and associated cancer disparities, but we also have projects that investigate other cancer types (e.g. osteosarcoma) and the fetal liver niche. We offer a unique and inclusive environment and the opportunity to explore and work with new cutting edge tools, both experimental and computational, to grow as a scientist and develop the skills necessary for interdisciplinary research. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed. Each individual will be given the opportunity to carve out an individual growth trajectory that matches their previous expertise and future goals.
 
 If interested, please email a CV and a letter of intent to [Ruben](rdries@bu.edu).
 
