@@ -35,6 +35,20 @@ Triple negative breast cancer is the most aggressive breast cancer and is freque
 %}
 
 
+{% capture text %}
+Spatial (multi-)omics is an emerging field that allows researchers to interrogate the importance of spatial location and cellular cross-talk in their favorite tissue, model organism or biological processes. Different spatial technologies provide different sources of information and they often do this at different scales. We continue building on top of our Giotto expertise and are working on creating harmonized data structures that allow processing, integrating and jointly analyzing virtually all spatial datasets. We specifically focus on developing tools in an open-source setting and that can be integrated with other existing and established tools, frameworks or communities.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/giotto_suite_summary.png"
+  title="Multi-resolution and multi-modal data structures for integrative spatial omics analysis"
+  text=text
+%}
+
+
 
 
 {% capture text %}
