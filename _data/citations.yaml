@@ -71,6 +71,22 @@
   tags:
   - spatial transcriptomics
   - Giotto
+- id: doi:10.1101/gr.275224.121
+  title: Advances in spatial transcriptomic data analysis
+  authors:
+  - Ruben Dries
+  - Jiaji Chen
+  - Natalie del Rossi
+  - Mohammed Muzamil Khan
+  - Adriana Sistig
+  - Guo-Cheng Yuan
+  publisher: Genome Research
+  date: '2021-10-01'
+  link: https://doi.org/gmz4kj
+  image: images/Spatial_advances.PNG
+  tags:
+  - spatial transcriptomics
+  - review
 - id: doi:10.1038/s41586-019-1049-y
   title: Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+
   authors:
@@ -92,19 +108,124 @@
   tags:
   - single cell
   - imaging
-- id: doi:10.1101/gr.275224.121
-  title: Advances in spatial transcriptomic data analysis
+- id: doi:10.1016/j.ccell.2019.11.003
+  title: CDK7 Inhibition Potentiates Genome Instability Triggering Anti-tumor Immunity
+    in Small Cell Lung Cancer
   authors:
+  - Hua Zhang
+  - Camilla L. Christensen
   - Ruben Dries
-  - Jiaji Chen
-  - Natalie del Rossi
-  - Mohammed Muzamil Khan
-  - Adriana Sistig
+  - Matthew G. Oser
+  - Jiehui Deng
+  - Brian Diskin
+  - Fei Li
+  - Yuanwang Pan
+  - Xuzhu Zhang
+  - Yandong Yin
+  - Eleni Papadopoulos
+  - Val Pyon
+  - Cassandra Thakurdin
+  - Nicholas Kwiatkowski
+  - Kandarp Jani
+  - Alexandra R. Rabin
+  - Dayanne M. Castro
+  - Ting Chen
+  - Heather Silver
+  - Qingyuan Huang
+  - Mirna Bulatovic
+  - "Catr\xEDona M. Dowling"
+  - Belen Sundberg
+  - Alan Leggett
+  - Michela Ranieri
+  - Han Han
+  - Shuai Li
+  - Annan Yang
+  - Kristen E. Labbe
+  - Christina Almonte
+  - Vladislav O. Sviderskiy
+  - Max Quinn
+  - Jack Donaghue
+  - Eric S. Wang
+  - Tinghu Zhang
+  - Zhixiang He
+  - Vamsidhar Velcheti
+  - Peter S. Hammerman
+  - Gordon J. Freeman
+  - Richard Bonneau
+  - William G. Kaelin
+  - Kate D. Sutherland
+  - Ariena Kersbergen
+  - Andrew J. Aguirre
   - Guo-Cheng Yuan
-  publisher: Genome Research
-  date: '2021-10-01'
-  link: https://doi.org/gmz4kj
-  image: images/Spatial_advances.PNG
+  - Eli Rothenberg
+  - George Miller
+  - Nathanael S. Gray
+  - Kwok-Kin Wong
+  publisher: Cancer Cell
+  date: '2020-01-01'
+  link: https://doi.org/gg44p2
+  image: images/summary_CDK7_Zhang.png
   tags:
-  - spatial transcriptomics
-  - review
+  - Single cell
+  - Oncology
+- id: doi:10.1038/s41586-019-1472-0
+  title: BORIS promotes chromatin regulatory interactions in treatment-resistant cancer
+    cells
+  authors:
+  - David N. Debruyne
+  - Ruben Dries
+  - Satyaki Sengupta
+  - Davide Seruggia
+  - Yang Gao
+  - Bandana Sharma
+  - Hao Huang
+  - Lisa Moreau
+  - Michael McLane
+  - Daniel S. Day
+  - Eugenio Marco
+  - Ting Chen
+  - Nathanael S. Gray
+  - Kwok-Kin Wong
+  - Stuart H. Orkin
+  - Guo-Cheng Yuan
+  - Richard A. Young
+  - Rani E. George
+  publisher: Nature
+  date: '2019-08-01'
+  link: https://doi.org/ggdb79
+  image: images/summary_BORIS_Debruyne.png
+  tags:
+  - single cell
+  - 3D Chromatin
+  - Oncology
+- id: doi:10.1038/s41467-019-09703-y
+  title: CDK12 loss in cancer cells affects DNA damage response genes through premature
+    cleavage and polyadenylation
+  authors:
+  - Malgorzata Krajewska
+  - Ruben Dries
+  - Andrew V. Grassetti
+  - Sofia Dust
+  - Yang Gao
+  - Hao Huang
+  - Bandana Sharma
+  - Daniel S. Day
+  - Nicholas Kwiatkowski
+  - Monica Pomaville
+  - Oliver Dodd
+  - Edmond Chipumuro
+  - Tinghu Zhang
+  - Arno L. Greenleaf
+  - Guo-Cheng Yuan
+  - Nathanael S. Gray
+  - Richard A. Young
+  - Matthias Geyer
+  - Scott A. Gerber
+  - Rani E. George
+  publisher: Nature Communications
+  date: '2019-04-15'
+  link: https://doi.org/gh57c6
+  image: images/summary_CDK12_Krajewska.png
+  tags:
+  - transcript processing
+  - Oncology
