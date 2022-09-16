@@ -29,7 +29,7 @@ Triple negative breast cancer is the most aggressive breast cancer and is freque
 
 {%
   include feature.html
-  image="images/biopsy_profiling.png"
+  image="images/Research_pics/biopsy_profiling.png"
   title="Cancer Disparities in Triple Negative Breast Cancer"
   text=text
 %}
@@ -51,7 +51,7 @@ Spatial (multi-)omics is an emerging field that allows researchers to interrogat
 
 {%
   include feature.html
-  image="images/giotto_suite_summary.png"
+  image="images/Research_pics/giotto_suite_summary.png"
   title="Multi-resolution and multi-modal data structures for integrative spatial omics analysis"
   text=text
 %}
@@ -74,7 +74,7 @@ Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a
 
 {%
   include feature.html
-  image="images/Georgemicroscope.png"
+  image="images/Research_pics/Georgemicroscope.png"
   title="Pulmonary Metastasis in Osteosarcoma"
   text=text
 %}
