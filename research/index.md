@@ -22,6 +22,22 @@ We focus on biological processes that control the decision making of an individu
 ## Current Projects
 
 {% capture text %}
+Triple negative breast cancer is the most aggressive breast cancer and is frequently seen in Black Women. Here we seek to identify the spatial topological configurations and drivers that promote the aggressive nature of this tumor type. By utilizing a set of tumor samples from a large and diverse patient population we aim to improve prediction to treatment strategies and to identify novel vulnerabilities that work in all populations. In this manner we are part of a larger and enthusiastic collaboration that aims to eliminate cancer disparities.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/biopsy_profiling.png"
+  title="Cancer Disparities in Triple Negative Breast Cancer"
+  text=text
+%}
+
+
+
+
+{% capture text %}
 Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a challenging disease to treat, and treatment has not improved in almost four decades. The primary cause of mortality for pediatric osteosarcoma is metastases to the lung. This interdisciplinary project, funded by Alex's Lemonade Stand, seeks to uncover the processes that drive the development of metastatic lesions. Using cutting edge technology including spatial transcriptomics, we hope to identify druggable drivers of metastasis. 
 
 {%
