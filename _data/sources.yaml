@@ -15,17 +15,40 @@
   tags:
     - spatial transcriptomics
     - Giotto
-    
-- id: doi:10.1038/s41586-019-1049-y
-  image: "images/Seqfish_ligand.PNG"
-  tags:
-    - single cell
-    - imaging
-    
+
+
 - id: doi:10.1101/gr.275224.121
   image: "images/Spatial_advances.PNG"
   tags:
     - spatial transcriptomics
     - review
-    
-    
+
+
+- id: doi:10.1038/s41586-019-1049-y
+  image: "images/Seqfish_ligand.PNG"
+  tags:
+    - single cell
+    - imaging
+
+
+- id: doi:10.1016/j.ccell.2019.11.003
+  image: "images/summary_CDK7_Zhang.png"
+  tags:
+    - Single cell
+    - Oncology
+
+
+- id: doi:10.1038/s41586-019-1472-0
+  image: "images/summary_BORIS_Debruyne.png"
+  tags:
+    - single cell
+    - 3D Chromatin
+    - Oncology
+
+
+- id: doi:10.1038/s41467-019-09703-y
+  image: "images/summary_CDK12_Krajewska.png"
+  tags:
+    - transcript processing
+    - Oncology
+
