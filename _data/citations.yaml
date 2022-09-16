@@ -22,7 +22,7 @@
   publisher: Genome Biology
   date: '2021-03-08'
   link: https://doi.org/gj8zjn
-  image: images/giotto_example.PNG
+  image: images/Pubpic/giotto_example.PNG
   tags:
   - spatial transcriptomics
   - Giotto
@@ -53,7 +53,7 @@
   publisher: Nature Communications
   date: '2022-03-01'
   link: https://doi.org/gp8jqw
-  image: images/fetal_liver.PNG
+  image: images/Pubpic/fetal_liver.PNG
   tags:
   - single cell
   - stem cell biology
@@ -67,7 +67,7 @@
   publisher: Current Protocols
   date: '2022-04-01'
   link: https://doi.org/gp8jrc
-  image: images/Giotto_logo2.png
+  image: images/Pubpic/Giotto_logo2.png
   tags:
   - spatial transcriptomics
   - Giotto
@@ -83,7 +83,7 @@
   publisher: Genome Research
   date: '2021-10-01'
   link: https://doi.org/gmz4kj
-  image: images/Spatial_advances.PNG
+  image: images/Pubpic/Spatial_advances.PNG
   tags:
   - spatial transcriptomics
   - review
@@ -104,7 +104,7 @@
   publisher: Nature
   date: '2019-03-25'
   link: https://doi.org/gfxgqx
-  image: images/Seqfish_ligand.PNG
+  image: images/Pubpic/Seqfish_ligand.PNG
   tags:
   - single cell
   - imaging
@@ -164,7 +164,7 @@
   publisher: Cancer Cell
   date: '2020-01-01'
   link: https://doi.org/gg44p2
-  image: images/summary_CDK7_Zhang.png
+  image: images/Pubpic/summary_CDK7_Zhang.png
   tags:
   - Single cell
   - Oncology
@@ -193,7 +193,7 @@
   publisher: Nature
   date: '2019-08-01'
   link: https://doi.org/ggdb79
-  image: images/summary_BORIS_Debruyne.png
+  image: images/Pubpic/summary_BORIS_Debruyne.png
   tags:
   - single cell
   - 3D Chromatin
@@ -225,7 +225,7 @@
   publisher: Nature Communications
   date: '2019-04-15'
   link: https://doi.org/gh57c6
-  image: images/summary_CDK12_Krajewska.png
+  image: images/Pubpic/summary_CDK12_Krajewska.png
   tags:
   - transcript processing
   - Oncology
