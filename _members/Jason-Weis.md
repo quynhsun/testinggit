@@ -1,6 +1,6 @@
 ---
 name: Jason Weis
-image: images/member.jpg
+image: images/Jason_Weis.jpg
 role: phd
 description: Graduate Student Shared with Mazzilli Lab
 links:
