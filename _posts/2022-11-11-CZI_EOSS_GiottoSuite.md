@@ -1,7 +1,7 @@
 ---
 title: Giotto Suite awarded Chan Zuckerberg Initiative EOSS grant!
 tags:
-  - alumni 
+  - spatial transcriptomics 
 author: Ruben Dries
 member: Ruben-Dries
 ---
