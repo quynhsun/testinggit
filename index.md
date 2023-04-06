@@ -28,7 +28,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 
 {%
   include feature.html
-  image="images/CDK7_fig.png"
+  image="images/Research_pics/CDK7_fig.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Our lab has developed Giotto, a suite of software tools, including data structur
 
 {%
   include feature.html
-  image="images/Giotto_logo2.png"
+  image="images/Research_pics/giotto_suite_summary.png"
   link="resources"
   title="Our Resources"
   flip=true
