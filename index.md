@@ -50,7 +50,7 @@ Our lab has developed Giotto, a suite of software tools, including data structur
 {%
   include feature.html
   image="images/Research_pics/giotto_suite_summary.png"
-  link="resources"
+  link="tools"
   title="Our Resources"
   flip=true
   text=text
