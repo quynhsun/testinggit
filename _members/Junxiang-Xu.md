@@ -1,6 +1,6 @@
 ---
 name: Junxiang Xu
-image: images/Junxiang.jpg
+image: images/People/Junxiang.jpg
 role: phd
 description: Graduate Student Shared with Campbell Lab
 links:

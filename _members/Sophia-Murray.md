@@ -1,6 +1,6 @@
 ---
 name: Sophia Murray
-image: images/Sophia_Murray.jpg
+image: images/People/Sophia_Murray.jpg
 role: undergrad
 description: Undergraduate Student
 links:

@@ -1,6 +1,6 @@
 ---
 name: Matthew O'Brien
-image: images/Matt_OBrien2.jpg
+image: images/People/Matt_OBrien2.jpg
 role: programmer
 description: Junior Bioinformatician
 links:

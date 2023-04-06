@@ -1,6 +1,6 @@
 ---
 name: Ruben Dries
-image: images/ruben_dries.png
+image: images/People/ruben_dries.png
 description: Assistant Professor of Medicine
 role: pi
 links:
