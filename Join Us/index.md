@@ -34,7 +34,7 @@ If interested, please email a CV and a letter of intent to [Ruben](mailto:rdries
 
 Undergraduate Research Position – Spatial Software Development
 
-The Dries Lab at Boston University is seeking a highly motivated and skilled undergraduate student to join our team as a UROP research assistant. The successful candidate will contribute to the development and improvement of our spatial software tool, [Giotto](www.giottosuite.com), which is used for the analysis and visualization of spatial transcriptomics data. See https://www.bu.edu/urop/opportunity/biomedical-software-development/ for more information and instructions on how to apply.  
+The Dries Lab at Boston University is seeking a highly motivated and skilled undergraduate student to join our team as a UROP research assistant. The successful candidate will contribute to the development and improvement of our spatial software tool, [Giotto](www.giottosuite.com), which is used for the analysis and visualization of spatial transcriptomics data. See [UROP link](https://www.bu.edu/urop/opportunity/biomedical-software-development/) for more information and instructions on how to apply.  
 
 
 {% include section.html %}
