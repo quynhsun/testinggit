@@ -11,7 +11,7 @@ member: Ruben-Dries
 The Dries lab is excited to receive a grant from the Chan Zuckerberg Initiative's Essential Open Source Software for Science (EOSS) program to further develop and enhance the Giotto Suite platform.
 
 See link for more information:
-https://chanzuckerberg.com/eoss/proposals/enhancing-giotto-for-spatial-multi-resolution-technologies/
+[https://chanzuckerberg.com/eoss/proposals/enhancing-giotto-for-spatial-multi-resolution-technologies/](https://chanzuckerberg.com/eoss/proposals/enhancing-giotto-for-spatial-multi-resolution-technologies/)
 
 {%
   include figure.html
