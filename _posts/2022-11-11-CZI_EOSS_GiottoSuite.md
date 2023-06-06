@@ -15,7 +15,7 @@ See link for more information:
 
 {%
   include figure.html
-  image="images/GiottoLogo.png"
+  image="images/Blog/GiottoLogo.png"
   caption="Giotto Suite logo"
   width="400px"
 %}
