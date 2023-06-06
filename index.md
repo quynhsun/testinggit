@@ -28,7 +28,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 
 {%
   include feature.html
-  image="images/CDK7_fig.png"
+  image="images/Research_pics/CDK7_fig.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,8 +49,8 @@ Our lab has developed Giotto, a suite of software tools, including data structur
 
 {%
   include feature.html
-  image="images/Giotto_logo2.png"
-  link="resources"
+  image="images/Research_pics/giotto_suite_summary.png"
+  link="tools"
   title="Our Resources"
   flip=true
   text=text
@@ -92,17 +92,33 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
 
-  image1="images/images.jpg"
+  image1="images/Funding/BUMC_logo.png"
   link1="https://www.bmc.org/"
   tooltip1="Boston Medical Center"
 
-  image2="images/download.png"
+  image2="images/Funding/NIH.png"
   link2="https://www.nih.gov/"
   tooltip2="NIH"
   
-  image3="images/ALSF_Ribbon_Tag_RGB.png"
+  image3="images/Funding/ALSF_Ribbon_Tag_RGB.png"
   link3="https://www.alexslemonade.org/"
   tooltip3="ALSF"
+  
+  image4="images/Funding/NETRF.png"
+  link4="https://netrf.org/"
+  tooltip4="NETRF"
+  
+  image5="images/Funding/CZI.png"
+  link5="https://chanzuckerberg.com/"
+  tooltip5="CZI"
+
+  image6="images/Funding/acs_logo_fb.png"
+  link6="https://www.cancer.org/"
+  tooltip6="ACS"
+
+  image7="images/Funding/DoD-icon-min.png"
+  link7="https://cdmrp.health.mil/"
+  tooltip7="DoD"
 
 %}
 

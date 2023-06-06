@@ -1,6 +1,6 @@
 ---
 name: Niyana Self
-image: images/Niyana_Self.jpg
+image: images/People/Niyana_Self.jpg
 role: undergrad
 description: Undergraduate Student
 links:

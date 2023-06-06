@@ -79,6 +79,35 @@ Pediatric osteosarcoma, a tumor that affects children during growth spurts, is a
   text=text
 %}
 
+
+
+{% capture text %}
+Neuroendocrine tumors display exceptional heterogeneity that underlie their resistance 
+to standard and novel treatment strategies. Here we will use several cutting-edge 
+spatial technologies and data analysis strategies to decode the intrinsic and 
+extrinsic factors that contribute to this observed complexity. We aim to translate
+our insights into the development of improved biomarkers or the identification of
+new targettable molecules within the whole tumor microenvironment.
+
+{%
+  include link.html
+  link="https://netrf.org/"
+  text="Learn more neuroendocrine tumors"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Research_pics/TMA_heterogeneity.png"
+  title="Neuroendocrine tumor heterogeneity"
+  text=text
+%}
+
+
+
 {% include section.html %}
 
 

@@ -1,6 +1,6 @@
 ---
 name: Yibing Michelle Wei
-image: images/Michelle_Wei.jpg
+image: images/People/Michelle_Wei.jpg
 role: phd
 description: Graduate Student
 links:

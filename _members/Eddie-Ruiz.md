@@ -1,6 +1,6 @@
 ---
 name: Eddie Ruiz
-image: images/Eddie.jpeg
+image: images/People/Eddie.jpeg
 description: Graduate Student shared with Fiszbein Lab
 role: phd
 links:
