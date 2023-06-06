@@ -16,8 +16,8 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 #### Spatial Research Technician
 
-The Dries lab seeks to hire a research technician with a strong interestin in spatial biology,
-pathology and tissue histology. See the [application](Ads/Dries_lab_spatial_research_technician.pdf) for more details.
+The Dries lab seeks to hire a research technician with a strong interest in in spatial biology,
+pathology and tissue histology. See the [application](Ads/Dries_lab_spatial_research_technician_v2.pdf) for more details.
 
 &nbsp;  
 
