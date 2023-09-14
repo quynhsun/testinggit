@@ -2,7 +2,7 @@
 name: Matthew O'Brien
 image: images/People/Matt_OBrien2.jpg
 role: programmer
-description: Junior Bioinformatician
+description: Bioinformatician
 links:
   email: mobrien2@bu.edu
 

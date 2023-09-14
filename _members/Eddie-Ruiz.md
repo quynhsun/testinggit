@@ -1,7 +1,7 @@
 ---
 name: Eddie Ruiz
 image: images/People/Eddie.jpeg
-description: Graduate Student shared with Fiszbein Lab
+description: Graduate Student
 role: phd
 links:
   email: ecruiz@bu.edu
