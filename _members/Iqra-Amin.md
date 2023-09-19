@@ -1,7 +1,7 @@
 ---
 name: Iqra Amin
 image: images/People/Iqra.jpg
-role: Programmer
+role: programmer
 description: Bioinformatician
 ---
 
