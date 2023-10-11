@@ -13,7 +13,7 @@ See [link](https://www.bu.edu/hic/2023/10/06/gsf-spotlight-eddie-ruiz-genetics-g
 
 {%
   include figure.html
-  image="eddiespotlight.jpeg"
+  image="images/Blog/eddiespotlight.jpeg"
   caption="Eddie"
   width="400px"
 %}
