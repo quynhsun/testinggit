@@ -64,6 +64,7 @@ nav:
 
 ## Lab Alumni
 
+ Matthew O'Brien (Bioinformatician 2022-2023) <br>
  Osa Imafidon (Lab manager 2022-2023) <br>
  Sophia Murray (UROP Undergraduate Student 2022-2023) <br>
  Emma Kelley (Lab Manager and Research Associate 2020-2022) <br>
