@@ -64,6 +64,7 @@ nav:
 
 ## Lab Alumni
 
+ Jahlisse Bruton (Lab Manager 2023-2024) <br>
  Matthew O'Brien (Bioinformatician 2022-2023) <br>
  Osa Imafidon (Lab manager 2022-2023) <br>
  Sophia Murray (UROP Undergraduate Student 2022-2023) <br>
