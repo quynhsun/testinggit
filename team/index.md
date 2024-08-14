@@ -64,9 +64,10 @@ nav:
 
 ## Lab Alumni
 
+ Thea Nalan (Research Assistant 2022-2024)
  Jahlisse Bruton (Lab Manager 2023-2024) <br>
  Matthew O'Brien (Bioinformatician 2022-2023) <br>
- Osa Imafidon (Lab manager 2022-2023) <br>
+ Osa Imafidon (Lab Manager 2022-2023) <br>
  Sophia Murray (UROP Undergraduate Student 2022-2023) <br>
  Emma Kelley (Lab Manager and Research Associate 2020-2022) <br>
  Cecilia McCormick (BRITE REU Scholar Summer 2022) <br>
