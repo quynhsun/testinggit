@@ -2,7 +2,7 @@
 name: Quynh Sun
 image: images/People/quynh.jpeg
 description: Lab Coordinator
-role: labcoordinator
+role: labmanager
 links:
   email: qsun@bu.edu
 ---
