@@ -48,6 +48,57 @@ nav:
 {:.center}
 
 {% include section.html %}
+
+
+
+
+## Collaborators
+
+
+#### Software & spatial methodology:
+
+- Giotto Suite development:
+    - [Yuan Lab](https://labs.icahn.mssm.edu/yuanlab/)  
+    - Support from [SAIL](https://sail.bu.edu/)
+    
+- Spatial statistics & ML:
+    - [Mohammed Lab](https://www.bu.edu/sph/profile/shariq-mohammed/)
+    - [Crovella Lab](https://www.bu.edu/hic/profile/mark-crovella-2/)
+    
+- Spatial Genomics:  
+    - [Przytycki Lab](https://www.bu.edu/przytyckilab/)
+
+&nbsp;
+
+#### Oncology:  
+
+- Breast cancer research:  
+    - [Ko Lab](https://sites.bu.edu/kolab/)  
+    - [Denis Lab](https://www.bumc.bu.edu/hematology/research/faculty-labs/gerald-v-denis-phd/)  
+    - [Zaia Lab](https://www.bumc.bu.edu/biochemcellbio/profiles/joseph-zaia/)
+
+- Osteosarcoma research:  
+    - [Roberts Lab](https://www.nationwidechildrens.org/research/areas-of-research/center-for-childhood-cancer/roberts-lab/lab-staff)  
+
+- Neuroendrocrine tumor research:  
+    - [Heaphy Lab](https://sites.bu.edu/heaphylab/)  
+    - [Singhi Lab](https://www.path.pitt.edu/people/aatur-d-singhi-md-phd)
+
+&nbsp;
+
+#### Development biology:  
+
+- Lung & Megakaryocyte research:  
+    - [Murphy Lab](https://murphylaboratory.com/)  
+    
+- Fetal liver development:  
+    - [Vanuytsel Lab](https://sites.bu.edu/vanuytsellab/)  
+
+
+&nbsp;
+
+
+
 ## Undergraduate Students
 
 {%
@@ -61,6 +112,8 @@ nav:
 {% include section.html background="images/banner.jpg" dark=true%}
 
 {% include section.html %}
+
+&nbsp;
 
 ## Lab Alumni
 
