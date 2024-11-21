@@ -36,7 +36,7 @@ Spatial (multi-)omics is an emerging field that allows researchers to interrogat
 
 {%
   include link.html
-  link="https://wwww.giottosuite.com"
+  link="https://www.giottosuite.com"
   text="Learn more about Giotto v2.0 a.k.a. Giotto Suite"
   icon="fas fa-arrow-right"
   flip=true
