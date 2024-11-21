@@ -6,9 +6,19 @@ nav:
 ---
 
 # <i class="fas fa-users"></i>Join Us!
-The projects in our lab are centered around primary patient samples or pre-clinical modeling and are highly trans-disciplinary. They are situated at the interface of functional (single-cell) multi-omics, computational biology and (spatial) imaging to better understand the principles that steer changes in complex multicellular tissues. You will be working together with experts in these fields and will have the opportunity to be trained in one or more fields to become a well-rounded researcher. You will be involved in determining the important and interesting questions, creating and improving technological setups, performing experiments, and/or analyzing obtained datasets.
+The projects in our lab are centered around primary patient samples or pre-clinical modeling 
+and are highly trans-disciplinary. They are situated at the interface of functional (single-cell) multi-omics, 
+computational biology and (spatial) imaging to better understand the principles 
+that steer changes in complex multicellular tissues. 
+You will be working together with experts in these fields and will have the opportunity 
+to be trained in one or more fields to become a well-rounded researcher. 
+You will be involved in determining the important and interesting questions, 
+creating and improving technological setups, performing experiments, and/or analyzing obtained datasets.
 
-Since our lab atmosphere is highly collaborative we particularly encourage applications from individuals that have an open mind and work well in a team setting. Each person will have the opportunity to be the chief of their own project(s), but will be asked to give and take advice in a positive and constructive manner. 
+Since our lab atmosphere is highly collaborative we particularly encourage applications 
+from individuals that have an open mind and work well in a team setting. 
+Each person will have the opportunity to be the chief of their own project(s), 
+but will be asked to give and take advice in a positive and constructive manner. 
 
 {% include section.html %}
 
@@ -28,11 +38,11 @@ If you are a interested to join our lab as a graduate (Ph.D.) student then you n
 to be accepted in a Boston University (BU) Graduate Program. Depending on your 
 background and interests the following programs might apply:  
 
-- PIBS: https://www.bumc.bu.edu/gms/pibs/  
+- PIBS: [](https://www.bumc.bu.edu/gms/pibs/)  
 
-- Bioinformatics: https://www.bu.edu/bioinformatics/admissions/programs/phd/   
+- Bioinformatics: [](https://www.bu.edu/bioinformatics/admissions/programs/phd/)  
 
-- Computing and data sciences: https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/   
+- Computing and data sciences: [](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/)   
 
 
 &nbsp; 
@@ -40,7 +50,7 @@ background and interests the following programs might apply:
 #### Undergraduate position in Biomedical Software Development (UROP)
 
 We currently don't have any open Undergraduate Research Positions (UROP).
-Future opportunities will be shared on https://www.bu.edu/urop/opportunities/ 
+Future opportunities will be shared on [](https://www.bu.edu/urop/opportunities/)   
 
 
 {% include section.html %}
