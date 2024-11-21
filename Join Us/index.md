@@ -38,11 +38,11 @@ If you are a interested to join our lab as a graduate (Ph.D.) student then you n
 to be accepted in a Boston University (BU) Graduate Program. Depending on your 
 background and interests the following programs might apply:  
 
-- PIBS: [](https://www.bumc.bu.edu/gms/pibs/)  
+- PIBS: [https://www.bumc.bu.edu/gms/pibs/](https://www.bumc.bu.edu/gms/pibs/)  
 
-- Bioinformatics: [](https://www.bu.edu/bioinformatics/admissions/programs/phd/)  
+- Bioinformatics: [https://www.bu.edu/bioinformatics/admissions/programs/phd/](https://www.bu.edu/bioinformatics/admissions/programs/phd/)  
 
-- Computing and data sciences: [](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/)   
+- Computing and data sciences: [https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/](https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/)   
 
 
 &nbsp; 
@@ -50,7 +50,7 @@ background and interests the following programs might apply:
 #### Undergraduate position in Biomedical Software Development (UROP)
 
 We currently don't have any open Undergraduate Research Positions (UROP).
-Future opportunities will be shared on [](https://www.bu.edu/urop/opportunities/)   
+Future opportunities will be shared on [https://www.bu.edu/urop/opportunities/](https://www.bu.edu/urop/opportunities/)   
 
 
 {% include section.html %}
