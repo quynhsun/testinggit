@@ -17,26 +17,30 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 
 #### Postdoctoral Fellow(s) in Spatial biology & software engineering
 
-We're looking for enthusiastic postdoctoral fellow(s) with an interest in spatial multi-omics. Ideally, this person has prior expertise in one or more of the following skills:   
-- data science / analysis  
-- R and software engineering
-- imaging  or image processing  
-- genomics  
-- spatial method development  
-- deep-learning
-
-We're specifically looking for talented individuals that want to develop new methods working with large and/or multi-modal
-spatial datasets. High-level R coding and package development to support our [Giotto Suite](https://giottosuite.readthedocs.io/en/latest/#) platform are considered a big plus. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed. Each individual will be given the opportunity to carve out an individual growth trajectory that matches their previous expertise and future goals.
-
-If interested, please email a CV and a letter of intent to [Ruben](mailto:rdries@bu.edu).  
+We currently don't have any open positions, but encourage you to reach out to [Ruben](mailto:rdries@bu.edu) 
+if you're interest in our lab and would like to discuss ongoing projects and opportunities.
 
 &nbsp;  
 
+#### Graduate Students  
+
+If you are a interested to join our lab as a graduate (Ph.D.) student then you need
+to be accepted in a Boston University (BU) Graduate Program. Depending on your 
+background and interests the following programs might apply:  
+
+- PIBS: https://www.bumc.bu.edu/gms/pibs/  
+
+- Bioinformatics: https://www.bu.edu/bioinformatics/admissions/programs/phd/   
+
+- Computing and data sciences: https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/   
+
+
+&nbsp; 
+
 #### Undergraduate position in Biomedical Software Development (UROP)
 
-Undergraduate Research Position – Spatial Software Development
-
-The Dries Lab at Boston University is seeking a highly motivated and skilled undergraduate student to join our team as a UROP research assistant. The successful candidate will contribute to the development and improvement of our spatial software tool, [Giotto](https://giottosuite.readthedocs.io/en/latest/#), which is used for the analysis and visualization of spatial transcriptomics data. See [UROP link](https://www.bu.edu/urop/opportunity/biomedical-software-development/) for more information and instructions on how to apply.  
+We currently don't have any open Undergraduate Research Positions (UROP).
+Future opportunities will be shared on https://www.bu.edu/urop/opportunities/ 
 
 
 {% include section.html %}
