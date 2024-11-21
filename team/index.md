@@ -68,7 +68,6 @@ nav:
 - Spatial Genomics:  
     - [Przytycki Lab](https://www.bu.edu/przytyckilab/)
 
-&nbsp;
 
 #### Oncology:  
 
@@ -84,7 +83,6 @@ nav:
     - [Heaphy Lab](https://sites.bu.edu/heaphylab/)  
     - [Singhi Lab](https://www.path.pitt.edu/people/aatur-d-singhi-md-phd)
 
-&nbsp;
 
 #### Development biology:  
 
@@ -95,7 +93,6 @@ nav:
     - [Vanuytsel Lab](https://sites.bu.edu/vanuytsellab/)  
 
 
-&nbsp;
 
 
 
@@ -117,9 +114,11 @@ nav:
 
 ## Lab Alumni
 
- Thea Nalan (Research Assistant 2022-2024)
+ Thea Nalan (Research Assistant 2022-2024) <br>
  Jahlisse Bruton (Lab Manager 2023-2024) <br>
  Matthew O'Brien (Bioinformatician 2022-2023) <br>
+ Kriya Patel (UROP Undergraduate Student 2022-2023) <br>
+ Amelia Zug (BRITE REU Scholar Summer 2023) <br>
  Osa Imafidon (Lab Manager 2022-2023) <br>
  Sophia Murray (UROP Undergraduate Student 2022-2023) <br>
  Emma Kelley (Lab Manager and Research Associate 2020-2022) <br>
