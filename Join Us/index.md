@@ -15,11 +15,20 @@ Since our lab atmosphere is highly collaborative we particularly encourage appli
 # Current Openings
 
 
-#### Undergraduate Position in Computational Biology (UROP)
+#### Postdoctoral Fellow(s) in Spatial biology & software engineering
 
-Undergraduate Research Position - Spatial Transcriptomics and Data Science in Cancer Biology
+We're looking for enthusiastic postdoctoral fellow(s) with an interest in spatial multi-omics. Ideally, this person has prior expertise in one or more of the following skills:   
+- data science / analysis  
+- R and software engineering
+- imaging  or image processing  
+- genomics  
+- spatial method development  
+- deep-learning
 
-The Dries Lab at Boston University is seeking a motivated undergraduate student to contribute to research projects focusing on various tumors using spatial transcriptomic technologies, imaging and 3D tissue modeling, and bioinformatics software tools. Our lab is situated at the forefront of spatial omics research and develops Giotto Suite [Giotto](www.giottosuite.com), a widely used R package for spatial omics data analysis. We encourage undergraduates with a background in programming, data analysis, and/or cancer biology, as well as an interest for translational research to apply. No prior lab experience is required. The roles offers an oportunity to explore the latest advances in cancer research within a multi-disciplinary lab environment while gaining valuable experience in computational workflows. See [UROP link](https://www.bu.edu/urop/opportunity/computational-biology/) for more information and instructions on how to apply. 
+We're specifically looking for talented individuals that want to develop new methods working with large and/or multi-modal
+spatial datasets. High-level R coding and package development to support our [Giotto Suite](https://giottosuite.readthedocs.io/en/latest/#) platform are considered a big plus. In this role the fellow can also directly interact with our excellent (under)graduate students and provide mentorship and support where needed. Each individual will be given the opportunity to carve out an individual growth trajectory that matches their previous expertise and future goals.
+
+If interested, please email a CV and a letter of intent to [Ruben](mailto:rdries@bu.edu).  
 
 &nbsp;  
 
