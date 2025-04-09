@@ -1,6 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s43018-022-00427-5
+  title: Mesenchymal and adrenergic cell lineage states in neuroblastoma possess distinct
+    immunogenic phenotypes
+  authors:
+  - Satyaki Sengupta
+  - Sanjukta Das
+  - Angela C. Crespo
+  - Annelisa M. Cornel
+  - Anand G. Patel
+  - Navin R. Mahadevan
+  - Marco Campisi
+  - Alaa K. Ali
+  - Bandana Sharma
+  - Jared H. Rowe
+  - Hao Huang
+  - David N. Debruyne
+  - Esther D. Cerda
+  - Malgorzata Krajewska
+  - Ruben Dries
+  - Minyue Chen
+  - Shupei Zhang
+  - Luigi Soriano
+  - Malkiel A. Cohen
+  - Rogier Versteeg
+  - Rudolf Jaenisch
+  - Stefani Spranger
+  - Rizwan Romee
+  - Brian C. Miller
+  - David A. Barbie
+  - Stefan Nierkens
+  - Michael A. Dyer
+  - Judy Lieberman
+  - Rani E. George
+  publisher: Nature Cancer
+  date: '2022-09-22'
+  link: https://doi.org/g5w249
+  image: images/Publications/nb_lineages.png
+  tags:
+  - neuroblastoma
+  - cell states
 - id: doi:10.1186/s13059-021-02286-2
   title: 'Giotto: a toolbox for integrative analysis and visualization of spatial
     expression data'
