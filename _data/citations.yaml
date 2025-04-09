@@ -1,6 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.11.26.568752
+  title: 'Giotto Suite: a multi-scale and technology-agnostic spatial multi-omics
+    analysis ecosystem'
+  authors:
+  - Jiaji George Chen
+  - "Joselyn Cristina Ch\xE1vez-Fuentes"
+  - "Matthew O\u2019Brien"
+  - Junxiang Xu
+  - Edward Ruiz
+  - Wen Wang
+  - Iqra Amin
+  - Irzam Sarfraz
+  - Pratishtha Guckhool
+  - Adriana Sistig
+  - Guo-Cheng Yuan
+  - Ruben Dries
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-27'
+  link: https://doi.org/g9dxmm
+  image: images/Publications/Giotto_Suite.png
+  tags:
+  - Giotto Suite
+  - spatial omics
+- id: doi:10.3389/fendo.2022.1044670
+  title: 'The crosstalk within the breast tumor microenvironment in type II diabetes:
+    Implications for cancer disparities'
+  authors:
+  - Christina S. Ennis
+  - Pablo Llevenes
+  - Yuhan Qiu
+  - Ruben Dries
+  - Gerald V. Denis
+  publisher: Frontiers in Endocrinology
+  date: '2022-12-01'
+  link: https://doi.org/g9dxmn
+  image: images/Publications/TME.png
+  tags:
+  - breast cancer
+  - metabolism
 - id: doi:10.1038/s43018-022-00427-5
   title: Mesenchymal and adrenergic cell lineage states in neuroblastoma possess distinct
     immunogenic phenotypes
