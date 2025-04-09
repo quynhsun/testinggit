@@ -1,6 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1158/1078-0432.CCR-24-0049
+  title: Aberrant Activation of Wound-Healing Programs within the Metastatic Niche
+    Facilitates Lung Colonization by Osteosarcoma Cells
+  authors:
+  - James B. Reinecke
+  - Leyre Jimenez Garcia
+  - Amy C. Gross
+  - Maren Cam
+  - Matthew V. Cannon
+  - Matthew J. Gust
+  - Jeffrey P. Sheridan
+  - Berkley E. Gryder
+  - Ruben Dries
+  - Ryan D. Roberts
+  publisher: Clinical Cancer Research
+  date: '2024-11-14'
+  link: https://doi.org/g9dxnc
+  image: images/Publications/OS_niche.png
+  tags:
+  - osteosarcoma
+  - niche
+- id: doi:10.1186/s13059-024-03349-w
+  title: 'MAMS: matrix and analysis metadata standards to facilitate harmonization
+    and reproducibility of single-cell data'
+  authors:
+  - Irzam Sarfraz
+  - Yichen Wang
+  - Amulya Shastry
+  - Wei Kheng Teh
+  - Artem Sokolov
+  - Brian R. Herb
+  - Heather H. Creasy
+  - Isaac Virshup
+  - Ruben Dries
+  - Kylee Degatano
+  - Anup Mahurkar
+  - Daniel J. Schnell
+  - Pedro Madrigal
+  - Jason Hilton
+  - Nils Gehlenborg
+  - Timothy Tickle
+  - Joshua D. Campbell
+  publisher: Genome Biology
+  date: '2024-08-01'
+  link: https://doi.org/g9dxnd
+  image: images/Publications/MAMS.png
+  tags:
+  - reproducibility
+  - software
 - id: doi:10.1101/2023.11.26.568752
   title: 'Giotto Suite: a multi-scale and technology-agnostic spatial multi-omics
     analysis ecosystem'
