@@ -1,3 +1,9 @@
+- id: doi.org/10.3389/fendo.2022.1044670
+  image: "images/Publications/TME.png"
+  tags:
+    - breast cancer
+    - metabolism
+
 - id: doi.org/10.1038/s43018-022-00427-5
   image: "images/Publications/nb_lineages.png"
   tags:
