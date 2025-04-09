@@ -1,3 +1,9 @@
+- id: doi.org/10.1101/2023.11.26.568752
+  image: "images/Publications/Giotto_Suite.png"
+  tags:
+    - Giotto Suite
+    - spatial omics
+
 - id: doi.org/10.3389/fendo.2022.1044670
   image: "images/Publications/TME.png"
   tags:
