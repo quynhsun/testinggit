@@ -1,3 +1,16 @@
+
+- id: doi:10.1158/1078-0432.CCR-24-0049
+  image: "images/Publications/OS_niche.png"
+  tags:
+    - osteosarcoma
+    - niche
+
+- id: doi:10.1186/s13059-024-03349-w
+  image: "images/Publications/MAMS.png"
+  tags:
+    - reproducibility
+    - software
+
 - id: doi:10.1101/2023.11.26.568752
   image: "images/Publications/Giotto_Suite.png"
   tags:
