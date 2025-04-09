@@ -1,3 +1,9 @@
+- id: doi.org/10.1038/s43018-022-00427-5
+  image: "images/Publications/nb_lineages.png"
+  tags:
+    - neuroblastoma
+    - cell states
+
 - id: doi:10.1186/s13059-021-02286-2
   image: "images/Publications/giotto_example.PNG"
   tags:
