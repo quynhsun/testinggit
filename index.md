@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to the Dries Lab
 
-We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of cancer biology, epigenetics and transcription. Our goal is to understand the transcriptional principles of cellular plasticity and its sources of variation in multicellular tissues in both health and disease. By generating experimental data and applying computational and statistical methods we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](https://emmakelley.github.io/testsite/research/)). We are particularly interested in improving diagnosis and treatment options for breast cancer and work together with our clinical collaborators at [Boston Medical Center](https://www.bmc.org/) to eliminate racial disparities in cancer care and research.
+We are a young and dynamic research group at BUMC in the department of [Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/). Using the latest advances in spatial and functional (single-cell) genomics, imaging and 3D tissue modeling we work at the interface of tissue biology, epigenetics and transcription. Our goal is to understand the transcriptional and spatial principles of cellular plasticity and its sources of variation in multi-cellular tissues in both health and disease. By generating experimental data and developing computational and statistical methods we aim to better understand - and intervene in - processes such as tumor formation and treatment resistance (see [Research](https://www.drieslab.com/research/)). We are particularly interested in improving diagnosis and treatment options for difficult to treat diseases and work together with our clinical collaborators at [Boston Medical Center](https://www.bmc.org/) to improve cancer care and research.
 
 {:.center}
 
@@ -35,7 +35,7 @@ Tightly linked to the Boston Medical Center (BMC), we ask ourselves fundamental 
 %}
 
 {% capture text %}
-Our lab has developed Giotto, a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data.
+Our lab has developed [Giotto](https://drieslab.github.io/Giotto_website/), a suite of software tools, including data structures and methods, for the comprehensive analysis and visualization of spatial expression data.
 
 {%
   include link.html
