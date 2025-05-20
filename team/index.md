@@ -114,6 +114,7 @@ nav:
 
 ## Lab Alumni
 
+ Jueshan Ji (Undergraduate Student 2024-2025)
  Munawwar Abdulla (Lab Coordinator 2024-2025)
  Iqra Amin (Bioinformatician 2023-2024) <br>
  Thea Nalan (Research Assistant 2022-2024) <br>
