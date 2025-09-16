@@ -113,9 +113,10 @@ nav:
 &nbsp;
 
 ## Lab Alumni
-
- Jueshan Ji (Undergraduate Student 2024-2025)
- Munawwar Abdulla (Lab Coordinator 2024-2025)
+ Anuradha Basyal (Graduate Student Intern 2024-2024) <br>
+ Sanjana Hasyagar (Graduate Student Intern 2024-2024) <br>
+ Jueshan Ji (Undergraduate Student 2024-2025) <br>
+ Munawwar Abdulla (Lab Coordinator 2024-2025) <br>
  Iqra Amin (Bioinformatician 2023-2024) <br>
  Thea Nalan (Research Assistant 2022-2024) <br>
  Jahlisse Bruton (Lab Manager 2023-2024) <br>
