@@ -1,4 +1,11 @@
 
+- id: doi:10.1038/s41592-025-02817-w
+  image: "images/Publications/GiottoSuite.png"
+  tags:
+    - Giotto
+    - spatial omics
+
+
 - id: doi:10.1158/1078-0432.CCR-24-0049
   image: "images/Publications/OS_niche.png"
   tags:
