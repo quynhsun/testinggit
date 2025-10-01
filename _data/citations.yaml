@@ -1,6 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s41592-025-02817-w
+  title: 'Giotto Suite: a multiscale and technology-agnostic spatial multiomics analysis
+    ecosystem'
+  authors:
+  - Jiaji G. Chen
+  - "Joselyn C. Ch\xE1vez-Fuentes"
+  - "Matthew O\u2019Brien"
+  - Junxiang Xu
+  - Edward C. Ruiz
+  - Wen Wang
+  - Iqra Amin
+  - Jeffrey P. Sheridan
+  - Sujung C. Shin
+  - Sanjana V. Hasyagar
+  - Irzam Sarfraz
+  - Pratishtha Guckhool
+  - Adriana Sistig
+  - Veronica Jarzabek
+  - Guo-Cheng Yuan
+  - Ruben Dries
+  publisher: Nature Methods
+  date: '2025-10-01'
+  link: https://doi.org/g95jw2
+  image: images/Publications/GiottoSuite.png
+  tags:
+  - Giotto
+  - spatial omics
 - id: doi:10.1158/1078-0432.CCR-24-0049
   title: Aberrant Activation of Wound-Healing Programs within the Metastatic Niche
     Facilitates Lung Colonization by Osteosarcoma Cells
