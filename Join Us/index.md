@@ -50,7 +50,7 @@ background and interests the following programs might apply:
 #### Undergraduate position in Biomedical Software Development (UROP)
 
 We currently don't have any open Undergraduate Research Positions (UROP).
-Future opportunities will be shared on [https://www.bu.edu/urop/opportunities/](https://www.bu.edu/urop/opportunities/)   
+Future opportunities will be shared on [https://www.bu.edu/urop/opportunities/](https://www.bu.edu/urop/opportunities/). If you have ideas that align with the interest and expertise of our lab then please reach out and talk to us.
 
 
 {% include section.html %}
