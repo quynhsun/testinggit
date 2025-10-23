@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and the [Department of Computational Biology](https://www.bumc.bu.edu/compbiomed/) at [Boston University School of Medicine](https://www.bumc.bu.edu/). We are located on the 4th floor of the Evans Biomedical Research Center
+Our lab is part of the sections of [Hematology and Medical Oncology](https://www.bumc.bu.edu/hematology/) and [Computational Biomedicine](https://www.bumc.bu.edu/compbiomed/) in the Department of Medicine at [Boston University School of Medicine](https://www.bumc.bu.edu/). We are located on the 4th floor of the Evans Biomedical Research Center
 
 {%
   include link.html

@@ -50,6 +50,21 @@ nav:
 {% include section.html %}
 
 
+## Undergraduate Students
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad"
+%}
+
+
+{% include section.html background="images/banner.jpg" dark=true%}
+
+{% include section.html %}
+
+&nbsp;
 
 
 ## Collaborators
@@ -96,21 +111,7 @@ nav:
 
 
 
-## Undergraduate Students
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad"
-%}
-
-
-{% include section.html background="images/banner.jpg" dark=true%}
-
-{% include section.html %}
-
-&nbsp;
 
 ## Lab Alumni
  Anuradha Basyal (Graduate Student Intern 2024-2024) <br>

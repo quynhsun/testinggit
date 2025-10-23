@@ -1,6 +1,6 @@
 ---
 name: Jueshan (Shan) Ji
-image: images/People/shan.png
+image: images/People/shan.jpg
 description: Undergraduate Student
 role: undergrad
 links:

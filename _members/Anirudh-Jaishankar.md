@@ -1,6 +1,6 @@
 ---
 name: Anirudh Jaishankar
-image: images/People/ani.png
+image: images/People/ani.jpg
 description: Bioinformatics Intern
 role: programmer
 links:
